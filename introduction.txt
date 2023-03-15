@@ -4,9 +4,12 @@ The application will allow users to create an account,
 browse and search through a large database of anime, create and manage their own anime watchlist
 , and engage with other users in a social community.
 
-The target audience for this application is anime fans who are looking for a centralized location to manage their anime viewing habits and connect with others who share similar interests. The system will provide a robust and intuitive user interface that will allow users to easily access the information they need, search for new anime titles, and interact with other members of the community.
+The target audience for this application is anime fans who are looking for a centralized location to manage their anime viewing habits and connect with others who share similar interests.
+The system will provide a robust and intuitive user interface that will allow users to easily access the information they need, search for new anime titles, and interact with other members of the community.
 
-This Software Requirements Specification (SRS) document outlines the functional and non-functional requirements for the MyAnimeList web application. It is intended to serve as a guide for the development team to ensure that the software system is built according to the user's requirements and specifications. The SRS document will be used as a reference throughout the development process to ensure that the final product meets the user's expectations.
+This Software Requirements Specification (SRS) document outlines the functional and non-functional requirements for the MyAnimeList web application. 
+It is intended to serve as a guide for the development team to ensure that the software system is built according to the user's requirements and specifications. 
+The SRS document will be used as a reference throughout the development process to ensure that the final product meets the user's expectations.
 
 The remainder of this document will describe in detail the functional and non-functional requirements for the MyAnimeList web application, including the user interface, system architecture, data requirements, assumptions and dependencies, constraints, and glossary of terms.
 References: MyAnimeList
