@@ -1,4 +1,4 @@
-<h1>INTRODUCTION<!h1>
+                                                         ---   INTRODUCTION   ---
 
 The MyAnimeList web application is a software system designed to provide a comprehensive and user-friendly platform for anime enthusiasts. 
 The application will allow users to create an account, 
