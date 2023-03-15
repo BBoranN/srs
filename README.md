@@ -1,3 +1,3 @@
-git add .
-git commit -m "---"
+<p>git add .<!p>
+<p>git commit -m "---"<!p>
 git push origin "insert branch name"
