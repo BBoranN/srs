@@ -1,1 +1,2 @@
 part 1
+The MyAnimeList web application is a software system designed to provide a comprehensive and user-friendly platform for anime enthusiasts. The application will allow users to create an account, browse and search through a large database of anime, create and manage their own anime watchlist, and engage with other users in a social community.
